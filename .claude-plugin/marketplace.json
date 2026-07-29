@@ -1,0 +1,17 @@
+{
+  "name": "pm-image",
+  "owner": {
+    "name": "PromptMetrics"
+  },
+  "plugins": [
+    {
+      "name": "promptmetrics-nano-banana",
+      "source": "./promptmetrics-nano-banana",
+      "description": "Recommend Nano Banana image-generation prompts and remix them for the PromptMetrics Paper brand.",
+      "version": "1.0.0",
+      "author": {
+        "name": "PromptMetrics"
+      }
+    }
+  ]
+}
