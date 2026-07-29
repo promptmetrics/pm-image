@@ -1,0 +1,20 @@
+{
+  "name": "promptmetrics-nano-banana",
+  "description": "Recommend Nano Banana image-generation prompts and remix them for the PromptMetrics Paper brand.",
+  "version": "1.0.0",
+  "author": "PromptMetrics",
+  "entry": "SKILL.md",
+  "tags": [
+    "image-generation",
+    "nano-banana",
+    "promptmetrics",
+    "brand",
+    "prompt-remix",
+    "claude-code",
+    "claude-for-work"
+  ],
+  "platforms": [
+    "claude-code",
+    "claude-for-work"
+  ]
+}

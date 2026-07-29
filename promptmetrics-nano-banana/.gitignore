@@ -1,0 +1,8 @@
+# Auto-downloaded upstream prompt library — fetched on install by scripts/setup.js
+references/upstream/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
