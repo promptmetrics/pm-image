@@ -54,3 +54,7 @@ node scripts/setup.js
 ## Adding to the remote repo
 
 This skill is intended to be added to `https://github.com/promptmetrics/pm-image`. Stage the `promptmetrics-nano-banana/` folder and any repo-level files, then push as usual.
+
+---
+
+Built by [Izzy Aly](https://github.com/iiizzzyyy) at [PromptMetrics](https://github.com/promptmetrics).
